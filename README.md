@@ -1,2 +1,2 @@
 # Snjy-delta
-Demo of github
+Demo of github.
